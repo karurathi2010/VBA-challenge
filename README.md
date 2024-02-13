@@ -1,7 +1,7 @@
 # VBA-challenge
 ## Modlule 2 Challenge
 Two data sets were provided for this challenge:
-* ####Multiple_year_stock_data:
+* Multiple_year_stock_data:
   This data set had details of the stocks for 3 years 2018,2019 and 2020.
   As per the instruction,these are the steps followed in the code:
   * created 4 columns named "Ticker","Yearly Changed","Percent Changed" and "Total Stock Volume".
