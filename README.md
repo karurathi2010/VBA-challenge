@@ -1,5 +1,13 @@
 # VBA-challenge
 
+
+## List of items in the repository:
+* #### Solution Images Folder:
+   Contains screenshots of the results.
+* #### Multiple_year_stock_data_vbcode:
+   VBA script file.
+
+## Code Description.
 Two data sets were provided for this challenge:
 
 * Multiple_year_stock_data:
