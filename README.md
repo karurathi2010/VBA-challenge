@@ -21,7 +21,7 @@ Two data sets were provided for this challenge:
   * Using "row_num" found the corresponding "Ticker" of the maximum and minimum values and populated in the new "Ticker" column.
   * Finally applied "FOR LOOP" for the entire code for working the code across the worksheets in the workbook.
     
-*Alphabetical_test data:
+* Alphabetical_test data:
    As per the instruction the same code developed for Multiple_year_stock_data copied to this dataset.
    Since this data set has similar columns as Multiple_year_stock_data the code worked perfectly.
 
